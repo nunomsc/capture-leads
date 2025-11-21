@@ -1,0 +1,249 @@
+[
+    {
+        "name": "Nuno Cordeiro",
+        "email": "testeselenium@alfasoft.pt",
+        "date": "2025-11-14 15:16:42"
+    },
+    {
+        "name": "Teste Selenium",
+        "email": "nuno-en@alfasoft.pt",
+        "date": "2025-11-14 15:18:01"
+    },
+    {
+        "choices": [
+            "System.Object[]"
+        ],
+        "date": "2025-11-19 18:39:42"
+    },
+    {
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 09:42:28"
+    },
+    {
+        "choices": [
+            "option2"
+        ],
+        "date": "2025-11-21 10:33:41"
+    },
+    {
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 10:47:47"
+    },
+    {
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 10:47:51"
+    },
+    {
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 10:48:02"
+    },
+    {
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 10:50:27"
+    },
+    {
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 10:56:29"
+    },
+    {
+        "id": "lead_6920532f349cc1.29013560",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 11:55:27",
+        "lang": "en"
+    },
+    {
+        "id": "lead_6920532f36dd04.23533313",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 11:55:27"
+    },
+    {
+        "id": "lead_6920534add3dc1.05148456",
+        "choices": [
+            "option2"
+        ],
+        "date": "2025-11-21 11:55:54",
+        "lang": "en"
+    },
+    {
+        "id": "lead_6920534adf61c8.55912952",
+        "choices": [
+            "option2"
+        ],
+        "date": "2025-11-21 11:55:54"
+    },
+    {
+        "id": "lead_6920534e5c0f98.97577551",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 11:55:58",
+        "lang": "en"
+    },
+    {
+        "id": "lead_6920534e5df2e8.26602966",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 11:55:58"
+    },
+    {
+        "id": "lead_69205710ef02a0.01476909",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 12:12:00",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_69205e197dcf62.15901661",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 12:42:01",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_69205ee1c1e649.64641676",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 12:45:21",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_692060b4ec4c04.92799459",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 12:53:08",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_692060fbafaca4.25224701",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 12:54:19",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_6920633d603652.47935108",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 13:03:57",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_6920688a2a94f9.22405874",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 13:26:34",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_6920691f901607.67804676",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 13:29:03",
+        "lang": "en"
+    },
+    {
+        "id": "lead_69207430172d74.57899244",
+        "choices": [
+            "option2"
+        ],
+        "date": "2025-11-21 14:16:16",
+        "lang": "en"
+    },
+    {
+        "id": "lead_6920743524f648.55735118",
+        "choices": [
+            "option3"
+        ],
+        "date": "2025-11-21 14:16:21",
+        "lang": "en"
+    },
+    {
+        "id": "lead_69207439a42626.98857594",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:16:25",
+        "lang": "en"
+    },
+    {
+        "id": "lead_692074473724b1.84757751",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:16:39",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_6920749d6e26e8.26267803",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:18:05",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_692075888246e6.15278432",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:22:00",
+        "lang": "en"
+    },
+    {
+        "id": "lead_692076ede22f46.85510297",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:27:57",
+        "lang": "en"
+    },
+    {
+        "id": "lead_692077b17648d1.90359334",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:31:13",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_69207a094a3a73.47302616",
+        "choices": [
+            "option1"
+        ],
+        "date": "2025-11-21 14:41:13",
+        "lang": "pt"
+    },
+    {
+        "id": "lead_69207a7f1ea746.59255100",
+        "choices": [
+            "option6"
+        ],
+        "date": "2025-11-21 14:43:11",
+        "lang": "pt"
+    }
+]

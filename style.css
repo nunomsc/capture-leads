@@ -1,0 +1,153 @@
+.icon-circle {
+    display: inline-flex;            /* para centralizar o ícone */
+    justify-content: center;         /* horizontal */
+    align-items: center;             /* vertical */
+    width: 40px;                     /* tamanho do círculo */
+    height: 40px;
+    border-radius: 50%;              /* círculo */
+    background-color: #007bff;       /* cor de fundo */
+    color: white;                     /* cor do ícone */
+    font-size: 18px;                 /* tamanho do ícone */
+}
+
+.primary-color {
+    color: #105D95;
+}
+
+.card {
+    border-left: #105D95 3px solid !important; 
+}
+
+.align-content-between {
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.btn.btn-info {
+    color: #fff;
+}
+
+.my-card {
+  border: 1px solid #ddd;
+  overflow: visible !important; /* ESSENCIAL */
+}
+
+.my-card .badge-pill {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  background-color: #0d6efd;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: 600;
+
+  /* Efeito visual bonito: fica sobre a border */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  border: 1px solid white; /* contorno branco para destacar */
+  white-space: nowrap;
+}
+
+/* Custom Single-select with all options visible */
+.custom-select-wrapper {
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+  font-family: inherit;
+}
+
+.custom-select {
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  background-color: white;
+}
+
+.custom-select .options {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: block;
+  background-color: white;
+  z-index: 1000;
+}
+
+.custom-select .options li {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: background 0.2s;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  position: relative;
+}
+
+.custom-select .options li:last-child {
+  border-bottom: none;
+}
+
+.custom-select .options li small {
+  font-size: 16px;
+}
+
+.custom-select .options li i {
+  color: #105D95;
+}
+
+/* Language Selector */
+.btn-group .btn-check:checked + .btn {
+  background-color: #105D95;
+  border-color: #105D95;
+  color: white;
+}
+
+.btn-group .btn {
+  font-weight: 500;
+}
+
+.custom-select .options li:hover {
+  background-color: #0056b3;
+  color: white !important;
+}
+
+.custom-select .options li:hover i {
+  color: white;
+}
+
+.custom-select .options li.selected::before {
+  color: white;
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+.custom-select .options li.selected {
+  background-color: #0056b3;
+  color: white;
+}
+
+.custom-select .options li.selected i {
+  color: white;
+}
+
+.custom-select-wrapper.mb-3 {
+    text-align: left;
+}
+
+li span {
+  font-size: 20px
+}
+
+#note {
+  width: 75%;
+}
+
+small#note {
+  background-color: #d4edda;
+  padding: 10px;
+  color: #155724;
+}
