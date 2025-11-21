@@ -1,0 +1,42 @@
+{
+  "landing": {
+    "title": "Obtenha um diagnóstico rápido e personalizado para implementação de AI na sua organização",
+    "description": "Em apenas três passos conseguimos guiá-lo e ajudar a perceber como e por onde começar",
+    "successMessage": "Obrigado! Recebemos o teu contacto.",
+    "errorMessage": "Ocorreu um erro. Tenta novamente.",
+    "badge": "EM 5 MINUTOS"
+  },
+  "footer": {
+    "copyright": "© 2025 A Minha Empresa"
+  },
+  "steps": {
+    "title1": "1. Escolha a área",
+    "title2": "2. Identifique os dados",
+    "title3": "3. Defina os objetivos",
+    "message1": "Em que área acredita ser possível ver o impacto mais rápido?",
+    "message2": "Com que dados podemos começar a trabalhar?",
+    "message3": "Onde queremos chegar nesta primeira fase?"
+  },
+  "page1": {
+    "title": "Em que departamento gostaria de ver o impacto da AI?",
+    "receive": "Receba recomendações personalizadas e um plano de ação prático."
+  },
+  "page2": {
+    "options": {
+      "option1": { "title": "Atendimento ao cliente", "body": "Perguntas focadas em fluxos de suporte, canais e volume de interações. Identificaremos oportunidades de automatização e integração com CRM." },
+      "option2": { "title": "Análises e Relatórios", "body": "Exploraremos quais relatórios são críticos e que dados alimentam essas análises para priorizar modelos preditivos." },
+      "option3": { "title": "Finanças", "body": "Focaremos em previsões de receita, deteção de anomalias e otimização de custos." },
+      "option4": { "title": "Marketing", "body": "Segmentação, scoring de leads e otimização de campanhas." },
+      "option5": { "title": "Operações", "body": "Automatização de processos e melhoria de eficiência operacional." },
+      "option6": { "title": "Vendas", "body": "Previsão de pipeline e priorização de leads." },
+      "option7": { "title": "Produto", "body": "Melhor compreensão do uso do produto e priorização de features." }
+    },
+    "title": "Que informações a sua empresa tem em mãos?",
+    "description": "Seleciona até <strong>2 tipos de dados</strong> que consegues utilizar facilmente",
+    "note": "Os dados são a base do trabalho da IA que funciona a partir do que aprende com eles. Quanto melhores e mais organizados forem os seus dados, melhores os resultados. Não precisam estar perfeitos, mas é importante saber o que tem disponível."
+  },
+  "button": {
+    "start": "INICIAR O DIAGNÓSTICO",
+    "next": "Próximo"
+  }
+}

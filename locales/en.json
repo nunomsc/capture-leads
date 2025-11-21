@@ -1,0 +1,42 @@
+{
+  "landing": {
+    "title": "Get a quick, personalized diagnostic for AI implementation in your organization",
+    "description": "In just three steps we can guide you and help understand how and where to start",
+    "successMessage": "Thanks! We've received your contact.",
+    "errorMessage": "An error occurred. Please try again.",
+    "badge": "IN 5 MINUTES"
+  },
+  "footer": {
+    "copyright": "© 2025 My Company"
+  },
+  "steps": {
+    "title1": "1. Choose the area",
+    "title2": "2. Identify the data",
+    "title3": "3. Define objectives",
+    "message1": "Which area do you believe can see the fastest impact?",
+    "message2": "Which data can we start working with?",
+    "message3": "Where do we want to get in this first phase?"
+  },
+  "page1": {
+    "title": "In which department would you like to see the impact of AI?",
+    "receive": "Receive personalized recommendations and a practical action plan."
+  },
+  "page2": {
+    "options": {
+      "option1": { "title": "Customer Support", "body": "Questions focused on support flows, channels and interaction volumes. We'll identify automation opportunities and CRM integration." },
+      "option2": { "title": "Analytics & Reporting", "body": "We'll explore which reports are critical and what data feeds them to prioritize predictive models." },
+      "option3": { "title": "Finance", "body": "We'll focus on revenue forecasting, anomaly detection and cost optimization." },
+      "option4": { "title": "Marketing", "body": "Segmentation, lead scoring and campaign optimization." },
+      "option5": { "title": "Operations", "body": "Process automation and operational efficiency improvements." },
+      "option6": { "title": "Sales", "body": "Pipeline forecasting and lead prioritization." },
+      "option7": { "title": "Product", "body": "Better understanding of product usage and feature prioritization." }
+    },
+    "title": "What information does your company have on hand?",
+    "description": "Select up to <strong>2 types of data</strong> that you can easily use",
+    "note": "Data is the foundation of AI's work, which operates based on what it learns from it. The better and more organized your data is, the better the results. It doesn't need to be perfect, but it's important to know what you have available."
+  },
+  "button": {
+    "start": "START DIAGNOSTIC",
+    "next": "Next"
+  }
+}
